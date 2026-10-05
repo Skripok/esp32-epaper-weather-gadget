@@ -1,0 +1,12 @@
+# VS Code local settings
+.vscode/
+
+# Build output
+build/
+*.bin
+*.elf
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
